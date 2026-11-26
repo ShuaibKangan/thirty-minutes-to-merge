@@ -2,7 +2,7 @@
 
 A project based learning activity for people who are getting started with branching with Git.
 
-You can play the game at: https://githubschool.github.io/thirty-minutes-to-merge/
+You can play the game at: https://ShuaibKangan.github.io/thirty-minutes-to-merge/
 
 >> _*SUPPORTED BROWSERS*: Chrome, Firefox, Safari, Opera and IE9+_
 
@@ -25,7 +25,7 @@ Enable GitHub Actions:
 
 ## GitHub Flow
 [GitHub Flow Graphic](https://guides.github.com/introduction/flow/)
-![github_flow image](https://github.com/githubschool/thirty-minutes-to-merge/blob/main/github_flow.png)
+[github_flow image](https://github.com/githubschool/thirty-minutes-to-merge/blob/main/github_flow.png)
 
 Choose a branching strategy that works for you, here are some things to consider about GitHub Flow:
 - Simple and easy to manage
